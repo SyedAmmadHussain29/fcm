@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416707680410",
+    "project_id": "fcmm-cdc90",
+    "storage_bucket": "fcmm-cdc90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416707680410:android:90988fd41eb74fb049e723",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416707680410-3e5u4amfuim5g6dkgd21p7k065vqphgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7roKd5niootfFlah0ZALmRvV1h4TrR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416707680410-3e5u4amfuim5g6dkgd21p7k065vqphgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
